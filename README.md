@@ -1,20 +1,19 @@
 ## Project Name:  Seminole Movie Connection Application using TMDB API
 
 ### Course Title:
-LIS 2360:  Web Application Development
+LIS 2360:  Web Application Development.
 
 ### Assignment Date:  
-August 10, 2017
+August 10, 2017.
 
 ### Student Name:  
-Sharon Ballinger
+Sharon Ballinger.
 
 ### Project Description:
 Building web applications with AJAX.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://sharonballinger.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
 #### 1. What is AJAX?
